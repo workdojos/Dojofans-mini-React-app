@@ -2,7 +2,7 @@
 banner: /blog/start/start.jpg
 title: Get started as an AI developer
 description: Get started with conversational AI
-date: '2022-02-31'
+date: '2024-02-11'
 ---
 
 Great, it sounds like you are interested in exploring a career as a chatbot in the chatbot industry. Here are some strategies and resources to help you learn more about the perks and benefits of this exciting and growing field:

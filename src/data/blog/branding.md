@@ -2,7 +2,7 @@
 banner: /blog/branding/branding.jpg
 title: Branding your AI business
 description: Branding for your chatbot
-date: '2023-06-30'
+date: '2024-04-30'
 ---
 
 As the social media manager for your chatbot organization, I would suggest the following strategies:

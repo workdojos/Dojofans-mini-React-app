@@ -2,7 +2,7 @@
 banner: /blog/tech/tech.jpg
 title: Tech for AI developers
 description: Web development for your AI business
-date: '2023-12-25'
+date: '2023-11-25'
 ---
 
 The chatbot industry has seen tremendous growth in recent years, as more and more businesses are turning to these digital assistants to improve customer service and streamline communication. However, with this growth has come a need for open-source technology to serve the chatbot industry.

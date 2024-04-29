@@ -2,7 +2,7 @@
 banner: /blog/startup/startup.jpg
 title: Startup idea for a chatbot developer
 description: Startup idea for AI developers
-date: '2022-09-31'
+date: '2023-03-10'
 ---
 
 Idea Name: Chatbot Central

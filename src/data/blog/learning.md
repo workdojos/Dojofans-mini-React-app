@@ -2,7 +2,7 @@
 banner: /blog/learning/learning.jpg
 title: Learning for AI developers
 description: Learning and development for aspiring AI developers
-date: '2022-12-31'
+date: '2023-12-31'
 ---
 
 Curriculum for Chatbot:

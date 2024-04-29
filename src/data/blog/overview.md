@@ -2,7 +2,7 @@
 banner: /blog/overview/overview.jpg
 title: Overview for chatbot developers
 description: About conversational AI
-date: '2023-01-31'
+date: '2024-01-31'
 ---
 
 The chatbot industry has seen tremendous growth in recent years. According to a report by Grand View Research, the global chatbot market is expected to reach $9.4 billion by 2024, growing at a compound annual growth rate of 24.3% from 2018 to 2024. This growth is being driven by the increasing adoption of chatbots in various industries such as retail, healthcare, and banking.

@@ -2,7 +2,7 @@
 banner: /blog/website/website.jpg
 title: Websites for AI developers
 description: Web development for your AI business
-date: '2023-03-31'
+date: '2024-04-07'
 ---
 
 As a web design consultant, I recommend using open-source technology to build your website for several reasons.
