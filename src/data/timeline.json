@@ -5,7 +5,7 @@
 		"description": "A place for anyone to jumpstart their journey into everything open-source.",
 		"icon": "feather:brain",
 		"link": {
-			"text": "Visit WorkDojos.",
+			"text": "Visit WorkDojos",
 			"url": "https://workdojos.com"
 		}
 	},
@@ -15,7 +15,7 @@
 		"description": "A channel dedicated to next-level AI-generated content.",
 		"icon": "feather:brain",
 		"link": {
-			"text": "Visit Dojofans on Youtube.",
+			"text": "Visit Dojofans on Youtube",
 			"url": "https://youtube.com/@dojofans"
 		}
 	},
@@ -24,7 +24,7 @@
 		"title": "Created Dojofans AI engine.",
 		"description": "An end-to-end process for AI content generation, image generation, text-to-speech, voice-cloning, and animation.",
 		"icon": "feather:star",
-		"text": "Visit Dojofans on Youtube.",
+		"text": "Visit Dojofans on Youtube",
 		"url": "https://youtube.com/@dojofans"
 	},
 	{
@@ -63,7 +63,7 @@
 		"description": "Created a service for helping people take the first step into self-hosted open-source technology.",
 		"icon": "feather:house",
 		"link": {
-			"text": "Visit WorkDojos.",
+			"text": "Visit WorkDojos",
 			"url": "https://home.workdojos.com/"
 		}
 	},
