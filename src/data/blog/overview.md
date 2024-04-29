@@ -1,7 +1,7 @@
 ---
 banner: /blog/overview/overview.jpg
 title: Overview for chatbot developers
-description: Overview of the AI and chatbot industry
+description: About conversational AI
 date: '2023-01-31'
 ---
 

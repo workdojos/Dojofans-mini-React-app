@@ -1,7 +1,7 @@
 ---
 banner: /blog/start/start.jpg
 title: Get started as an AI developer
-description: Get started developing chatbots
+description: Get started with conversational AI
 date: '2022-02-31'
 ---
 

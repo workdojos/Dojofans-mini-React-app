@@ -1,6 +1,6 @@
 ---
 banner: /blog/branding/branding.jpg
-title: Branding your AI development business
+title: Branding your AI business
 description: Branding for your chatbot
 date: '2023-06-30'
 ---

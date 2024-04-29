@@ -12,11 +12,7 @@ Natural language processing
 Machine learning
 Human-computer interaction
 Script writing
-Websites for learning:
 
-Coursera: https://www.coursera.org/courses?query=chatbot
-edX: https://www.edx.org/learn/chatbot
-Udemy: https://www.udemy.com/courses/development/ai/chatbot/
 Best companies to work for:
 
 Microsoft

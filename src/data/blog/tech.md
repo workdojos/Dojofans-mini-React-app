@@ -1,7 +1,7 @@
 ---
 banner: /blog/tech/tech.jpg
 title: Tech for AI developers
-description: Web development for your chatbot business
+description: Web development for your AI business
 date: '2023-12-25'
 ---
 
