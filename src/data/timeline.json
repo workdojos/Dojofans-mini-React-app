@@ -23,7 +23,8 @@
 		"date": "10-22-2023",
 		"title": "Created Dojofans AI engine.",
 		"description": "An end-to-end process for AI content generation, image generation, text-to-speech, voice-cloning, and animation.",
-		"icon": "feather:star""text": "Visit Dojofans on Youtube.",
+		"icon": "feather:star",
+		"text": "Visit Dojofans on Youtube.",
 		"url": "https://youtube.com/@dojofans"
 	},
 	{
