@@ -1,19 +1,60 @@
 [
 	{
-		"date": "12-14-2023",
-		"title": "Started Dojofans",
+		"date": "04-14-2024",
+		"title": "Created WorkDojos showroom including 5 individual web apps featured on a single static page.",
 		"description": "A place to share what I've learned in AI development",
 		"icon": "feather:brain",
 		"link": {
-			"text": "Visit Dojofans on Youtube",
+			"text": "Visit Dojos.",
+			"url": "https://workdojos.com"
+		}
+	},
+	{
+		"date": "12-14-2023",
+		"title": "Started Dojofans.",
+		"description": "A place to share what I've learned in AI development",
+		"icon": "feather:brain",
+		"link": {
+			"text": "Visit Dojofans on Youtube.",
 			"url": "https://youtube.com/@dojofans"
 		}
 	},
 	{
 		"date": "10-22-2023",
-		"title": "Created Dojofans AI engine",
+		"title": "Created Dojofans AI engine.",
 		"description": "An end-to-end process for AI content generation, image generation, text-to-speech, voice-cloning, and animation",
-		"icon": "feather:star"
+		"icon": "feather:star""text": "Visit Dojofans on Youtube.",
+		"url": "https://youtube.com/@dojofans"
+	},
+	{
+		"date": "10-20-2023",
+		"title": "Deployed a mini-site demo built with Vanta JS and prototype for new game for Fantasy Congress.",
+		"description": "A place to share what I've learned in AI development",
+		"icon": "feather:brain",
+		"link": {
+			"text": "Legislators Leaderboard",
+			"url": "https://loquacious-custard-bafff4.netlify.app/"
+		}
+	},
+	{
+		"date": "10-05-2023",
+		"title": "Made a video about Big Tech.",
+		"description": "A place to share what I've learned in AI development",
+		"icon": "feather:brain",
+		"link": {
+			"text": "Check it out",
+			"url": "https://youtu.be/T3yjG0aT0xM?si=pS5zgxuvYow2CirA"
+		}
+	},
+	{
+		"date": "05-25-2023",
+		"title": "Deployed private Matrix Synapse chat server for Admins via Ansible Deploy.",
+		"description": "A place to share what I've learned in AI development",
+		"icon": "feather:brain",
+		"link": {
+			"text": "Sign up for access",
+			"url": "https://blog.workdojos.com/#/portal/signup"
+		}
 	},
 	{
 		"date": "03-15-2022",
@@ -32,7 +73,7 @@
 		"icon": "feather:person",
 		"link": {
 			"text": "Visit Workmates",
-			"url": "https://workmates.live/"
+			"url": "https://chat.workmates.live/"
 		}
 	},
 	{
@@ -42,7 +83,7 @@
 		"icon": "feather:award"
 	},
 	{
-		"date": "12-11-2020",
+		"date": "12-11-2021",
 		"title": "Started Dojos channel",
 		"description": "Started dabbling in video editing using Davinci Resolve",
 		"icon": "feather:video",
