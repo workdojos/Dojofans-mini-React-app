@@ -2,17 +2,17 @@
 	{
 		"date": "04-14-2024",
 		"title": "Created WorkDojos showroom including 5 individual web apps featured on a single static page.",
-		"description": "A place to share what I've learned in AI development",
+		"description": "A place for anyone to jumpstart their journey into everything open-source.",
 		"icon": "feather:brain",
 		"link": {
-			"text": "Visit Dojos.",
+			"text": "Visit WorkDojos.",
 			"url": "https://workdojos.com"
 		}
 	},
 	{
 		"date": "12-14-2023",
 		"title": "Started Dojofans.",
-		"description": "A place to share what I've learned in AI development",
+		"description": "A channel dedicated to next-level AI-generated content.",
 		"icon": "feather:brain",
 		"link": {
 			"text": "Visit Dojofans on Youtube.",
@@ -22,14 +22,14 @@
 	{
 		"date": "10-22-2023",
 		"title": "Created Dojofans AI engine.",
-		"description": "An end-to-end process for AI content generation, image generation, text-to-speech, voice-cloning, and animation",
+		"description": "An end-to-end process for AI content generation, image generation, text-to-speech, voice-cloning, and animation.",
 		"icon": "feather:star""text": "Visit Dojofans on Youtube.",
 		"url": "https://youtube.com/@dojofans"
 	},
 	{
 		"date": "10-20-2023",
-		"title": "Deployed a mini-site demo built with Vanta JS and prototype for new game for Fantasy Congress.",
-		"description": "A place to share what I've learned in AI development",
+		"title": "Deployed a mini-site demo built with Vanta JS and prototype for new game concept for a revised Fantasy Congress.",
+		"description": "An idea for empowering people to learn more about their members of Congress.",
 		"icon": "feather:brain",
 		"link": {
 			"text": "Legislators Leaderboard",
@@ -39,7 +39,7 @@
 	{
 		"date": "10-05-2023",
 		"title": "Made a video about Big Tech.",
-		"description": "A place to share what I've learned in AI development",
+		"description": "A real eye-opener espousing the virtues of open-source technology.",
 		"icon": "feather:brain",
 		"link": {
 			"text": "Check it out",
@@ -49,7 +49,7 @@
 	{
 		"date": "05-25-2023",
 		"title": "Deployed private Matrix Synapse chat server for Admins via Ansible Deploy.",
-		"description": "A place to share what I've learned in AI development",
+		"description": "A next-level encrypted chat platform.",
 		"icon": "feather:brain",
 		"link": {
 			"text": "Sign up for access",
@@ -58,17 +58,17 @@
 	},
 	{
 		"date": "03-15-2022",
-		"title": "Started Dojos",
-		"description": "Created a service for helping people take the first step into self-hosted open-source technology",
+		"title": "Started Dojos.",
+		"description": "Created a service for helping people take the first step into self-hosted open-source technology.",
 		"icon": "feather:house",
 		"link": {
-			"text": "Visit Dojos",
+			"text": "Visit WorkDojos.",
 			"url": "https://home.workdojos.com/"
 		}
 	},
 	{
 		"date": "11-16-2021",
-		"title": "Started Workmates",
+		"title": "Started Workmates.",
 		"description": "A community for self-hosters, open-source enthusiasts, AI developers, and more",
 		"icon": "feather:person",
 		"link": {
@@ -77,9 +77,21 @@
 		}
 	},
 	{
+		"date": "10-15-2021",
+		"title": "Learning the fundamentals of AI, conversational bot development, and automation.",
+		"description": "Began my journey into the wild world of AI.",
+		"icon": "feather:award"
+	},
+	{
+		"date": "09-15-2021",
+		"title": "Learning Hugo Static Site Generator.",
+		"description": "Deployed over 10,000 pages (that live as simple markdown files).",
+		"icon": "feather:award"
+	},
+	{
 		"date": "07-15-2021",
-		"title": "Learning React and Next.js",
-		"description": "Created a number of websites using React and Next.js",
+		"title": "Learning React and Next.js.",
+		"description": "Created a number of websites using React and Next.js.",
 		"icon": "feather:award"
 	},
 	{
@@ -88,7 +100,7 @@
 		"description": "Started dabbling in video editing using Davinci Resolve",
 		"icon": "feather:video",
 		"link": {
-			"text": "Visit Dojos channel",
+			"text": "Visit Dojo's channel",
 			"url": "https://youtube.com/@workdojo"
 		}
 	}
